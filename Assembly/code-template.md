@@ -4,7 +4,6 @@
 .stack 100
 
 .data
-msg db "This is my first assembly program!$"
 
 .code
     mov ax, @data
